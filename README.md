@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Aman Rizvi</h1>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning more
+- 🌱 Open to work on Flutter
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: amanrizvi785@gmail.com
   
